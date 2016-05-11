@@ -1,0 +1,11 @@
+*.pyc
+*.db
+.DS_Store
+include/*
+lib/*
+media/*
+bin/*
+deploy/
+.idea/*
+.env
+db.sqlite3
